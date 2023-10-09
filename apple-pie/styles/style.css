@@ -22,3 +22,7 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+head {
+  background-image: url("../images/apple-pie.jpg");
+}
